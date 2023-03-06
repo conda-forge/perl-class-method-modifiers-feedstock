@@ -1,11 +1,22 @@
+About perl-class-method-modifiers-feedstock
+===========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-class-method-modifiers-feedstock/blob/main/LICENSE.txt)
+
 About perl-class-method-modifiers
-=================================
+---------------------------------
 
 Home: https://github.com/moose/Class-Method-Modifiers
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-class-method-modifiers-feedstock/blob/main/LICENSE.txt)
+Summary: Provides Moose-like method modifiers
+About perl-class-method-modifiers
+---------------------------------
+
+Home: https://github.com/moose/Class-Method-Modifiers
+
+Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
 Summary: Provides Moose-like method modifiers
 
